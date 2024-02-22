@@ -10,13 +10,12 @@ Project consists of pulling financial data from the web (Yahoo Finance: https://
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
-- <b>Python</b>
+- <b>PowerBI</b>
 
 <h2>Environments Used </h2>
 
 - <b>MacOS</b>
-- <b>Visual Code Studio</b>
-- <b>PowerBI</b>
+- <b>Microsoft via Virtual Machine</b>
 
 <h2>Program walk-through:</h2>
 
