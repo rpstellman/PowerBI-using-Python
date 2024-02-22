@@ -1,7 +1,5 @@
 <h1>PowerBI Using Python</h1>
 
- ### [YouTube Demonstration](https://youtube.com)
-
 <h2>Description</h2>
 Project consists of pulling financial data from the web (Yahoo Finance: https://www.yelp.com/dataset) in PowerBI usine Python.
 <br />
