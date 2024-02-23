@@ -19,16 +19,16 @@ Project consists of pulling financial data from the web (Yahoo Finance via Pytho
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Raw Yelp Business Data in JSON: <br/>
-<img src="https://i.imgur.com/LwyY6WM.png" height="80%" width="80%" alt="Raw Yelp Business Data"/>
+Bringing in Data via Python: <br/>
+<img src="https://imgur.com/VNK0zCr" height="80%" width="80%" alt="Bringing in Data"/>
 <br />
 <br />
-Select data items and create SQLite table / file:  <br/>
-<img src="https://i.imgur.com/jVbUHJx.png" height="80%" width="80%" alt="SQLite table creation"/>
+Python Script to bring in data from Yahoo Finance:  <br/>
+<img src="https://imgur.com/rmZouh5" height="80%" width="80%" alt="Python Script"/>
 <br />
 <br />
-Selecting Data File: <br/>
-<img src="https://i.imgur.com/wtjzMb3.png" height="80%" width="80%" alt="Selecting Data File"/>
+Data: <br/>
+<img src="https://imgur.com/H6JfQAL" height="80%" width="80%" alt="Data"/>
 <br />
 <br />
 Parsing the JSON data:  <br/>
