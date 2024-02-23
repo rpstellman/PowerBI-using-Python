@@ -45,11 +45,11 @@ Creating Histogram for AAPL:  <br/>
 <img src="https://imgur.com/HNDBNR4.png" height="80%" width="80%" alt="Histogram"/>
 <br />
 <br />
-Creating a Scatterplot (Year, Quarter, Day):  <br/>
+Creating a Scatterplot (Year, Quarter, Month, Day):  <br/>
 <img src="https://imgur.com/sjnUWUL.png" height="80%" width="80%" alt="Scatterplot"/>
 <br />
 <br />
-Adjusting the TICKER symbol to Alter data in Graphs:  <br/>
+Adjusting the TICKER symbol to Alter data in Graphs(from AAPL to TSLA):  <br/>
 <img src="https://imgur.com/kq5B6nl.png" height="80%" width="80%" alt="TICKER"/>
 </p>
 <!--
