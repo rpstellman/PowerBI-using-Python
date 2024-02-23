@@ -31,22 +31,27 @@ Data: <br/>
 <img src="https://imgur.com/H6JfQAL.png" height="80%" width="80%" alt="Data"/>
 <br />
 <br />
-Parsing the JSON data:  <br/>
-<img src="https://i.imgur.com/YysCMec.png" height="80%" width="80%" alt="Parsing the JSON data"/>
+Creating a Line/Area graph to show Close price over time for AAPL:  <br/>
+<img src="https://imgur.com/Pjq29QQ.png" height="80%" width="80%" alt="Line/Area Graph"/>
 <br />
 <br />
-Only Pulling 100 Businesses at a time:  <br/>
-<img src="https://i.imgur.com/cespm0q.png" height="80%" width="80%" alt="100 Business Limit"/>
+Creating a Boxplot/Violin for AAPL:  <br/>
+<img src="https://imgur.com/G5mt4OC.png" height="80%" width="80%" alt="Boxplot/Violin"/>
+ <img src="https://imgur.com/2hLpKSJ.png" height="80%" width="80%" alt="Violin by Year"/>
+ <img src="https://imgur.com/0q5lQvQ.png" height="80%" width="80%" alt="Violin by Quarter"/>
 <br />
 <br />
-Dumping Data into Database:  <br/>
-<img src="https://i.imgur.com/E1zcbbw.png" height="80%" width="80%" alt="Data Dump"/>
+Creating Histogram for AAPL:  <br/>
+<img src="https://imgur.com/HNDBNR4.png" height="80%" width="80%" alt="Histogram"/>
 <br />
 <br />
-Observe the database:  <br/>
-<img src="https://i.imgur.com/ZC7hhYl.png" height="80%" width="80%" alt="Business Database"/>
+Creating a Scatterplot (Year, Quarter, Day):  <br/>
+<img src="https://imgur.com/sjnUWUL.png" height="80%" width="80%" alt="Scatterplot"/>
+<br />
+<br />
+Adjusting the TICKER symbol to Alter data in Graphs:  <br/>
+<img src="https://imgur.com/kq5B6nl.png" height="80%" width="80%" alt="TICKER"/>
 </p>
-
 <!--
  ```diff
 - text in red
