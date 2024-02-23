@@ -20,15 +20,15 @@ Project consists of pulling financial data from the web (Yahoo Finance via Pytho
 
 <p align="center">
 Bringing in Data via Python: <br/>
-<img src="https://imgur.com/VNK0zCr" height="80%" width="80%" alt="Bringing in Data"/>
+<img src="https://imgur.com/VNK0zCr.png" height="80%" width="80%" alt="Bringing in Data"/>
 <br />
 <br />
 Python Script to bring in data from Yahoo Finance:  <br/>
-<img src="https://imgur.com/rmZouh5" height="80%" width="80%" alt="Python Script"/>
+<img src="https://imgur.com/rmZouh5.png" height="80%" width="80%" alt="Python Script"/>
 <br />
 <br />
 Data: <br/>
-<img src="https://imgur.com/H6JfQAL" height="80%" width="80%" alt="Data"/>
+<img src="https://imgur.com/H6JfQAL.png" height="80%" width="80%" alt="Data"/>
 <br />
 <br />
 Parsing the JSON data:  <br/>
