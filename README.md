@@ -1,7 +1,7 @@
 <h1>PowerBI Using Python</h1>
 
 <h2>Description</h2>
-Project consists of pulling financial data from the web (Yahoo Finance via Python yfinance) in PowerBI using Python.
+Project consists of pulling financial data from the web (Yahoo Finance via yfinance) in PowerBI using Python. This project demonstrates different ways to utilize Python to visualize data in PowerBI.
 <br />
 
 
@@ -14,7 +14,7 @@ Project consists of pulling financial data from the web (Yahoo Finance via Pytho
 <h2>Environments Used </h2>
 
 - <b>MacOS</b>
-- <b>Microsoft PowerBI via Virtual Machine</b>
+- <b>Microsoft PowerBI via VM</b>
 
 <h2>Program walk-through:</h2>
 
